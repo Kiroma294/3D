@@ -1,0 +1,11 @@
+Model Information:
+* title:	Atari 2600 Joysticks
+* source:	https://sketchfab.com/3d-models/atari-2600-joysticks-e673ac0afff84b8f95df582cf824e4a8
+* author:	Rodrigo Barbosa (https://sketchfab.com/rodrigobalva)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Atari 2600 Joysticks" (https://sketchfab.com/3d-models/atari-2600-joysticks-e673ac0afff84b8f95df582cf824e4a8) by Rodrigo Barbosa (https://sketchfab.com/rodrigobalva) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
